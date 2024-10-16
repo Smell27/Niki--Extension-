@@ -1,0 +1,4 @@
+/src/anime/myanimelist/
+   ├── nekopoi.kt
+   ├── build.gradle
+   └── AndroidManifest.xml
