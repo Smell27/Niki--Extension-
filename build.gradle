@@ -1,0 +1,15 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 31
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 31
+    }
+}
+
+dependencies {
+    implementation 'com.github.inorichi:tachiyomi:1.x.x'  // Dependency Tachiyomi
+    implementation "org.jsoup:jsoup:1.14.3"               // Library untuk parsing HTML
+    // Tambahkan library lain sesuai kebutuhan
+}
