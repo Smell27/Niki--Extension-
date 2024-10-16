@@ -1,0 +1,13 @@
+{
+  "id": "com.example.niki.extension",
+  "name": "Niki Extension",
+  "lang": "en",
+  "description": "An extension for streaming anime from Niki platform.",
+  "version": "1.0.0",
+  "author": "Smell27",
+  "source": "https://github.com/Smell27/Niki--Extension-",
+  "tags": ["anime", "streaming", "Niki"],
+  "category": "Streaming",
+  "status": "active",
+  "install": true
+}
