@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="eu.kanade.tachiyomi.extension.en.nekopoi">
+    
+    <application
+        android:label="nekopoi"
+        android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Deklarasi pengaturan aplikasi -->
+    </application>
+</manifest>
