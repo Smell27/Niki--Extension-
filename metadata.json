@@ -1,0 +1,9 @@
+{
+  "name": "Niki Extension",
+  "version": "1.0.0",
+  "url": "https://github.com/Smell27/Niki--Extension-.git",
+  "description": "An extension for streaming anime from Niki platform.",
+  "author": "Smell27",
+  "category": "Streaming",
+  "status": "active"
+}
